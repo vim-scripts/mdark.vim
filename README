@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3063
+
+This is a dark colorscheme, based on the great work done in rdark, and its variants (such as mydark). I wanted to build on the idea of pastel highlights with a dark gray background. I ended up expanding the range of colors so that, while one color represents a group of related terms, different sub-groups within that larger group have different shades. For example, the Statements highlight group consists entirely of shades of blue, but Repeat keywords (like for, while...) get a slightly darker blue, while Exception keywords (try, catch, ...) get a lighter blue, and so on. A screenshot at http://web.mit.edu/wolfsonm/www/files/vim/mdark_vim.png shows the scheme in action on many common filetypes.
+
+Note: not all languages will show these differences, as the default syntax files for most languages do not always make such distinctions.
